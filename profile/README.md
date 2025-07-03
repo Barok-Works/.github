@@ -22,4 +22,4 @@ Um grupo de 10 programadores juniors:
 
 ### [Dark-Ages (repositório oficial)](https://github.com/Barok-Works/Dark-Ages)
 
-> RPG por Turnos medieval, feito em JAVA OpenSource, acesse o link para saber
+> Um jogo RPG por Turnos medieval, OpenSource, feito em JAVA, acesse o link do repositório oficial para saber mais
